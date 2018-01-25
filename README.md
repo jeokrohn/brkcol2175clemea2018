@@ -5,12 +5,9 @@ This repository contains all reference material for above session
 ## Folder: Notebook
 This folder contains the Jupyter notebooks used for the demos.
 
-## Folder: Videos
-This folder contains videos of the demos
-
 ## Live Jupyter demo environment
 
-To get a live environment (Jupyter server with the demo notebook) you can run the following command from the main directory:
+To get a live environment (Jupyter server with the demo notebooks) you can run the following command from the main directory:
 
 ```
 docker build -t brkcol2175clemea2018 .
